@@ -4,7 +4,7 @@
 # Alec Ames
 # 6843577
 
-# Granular Synthesis Engine
+# Granular Synthesis Engine GUI
 
 import sys
 import random
