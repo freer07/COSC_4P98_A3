@@ -1,5 +1,9 @@
 # Alexander Freer
 # 6452551
+
+# Alec Ames
+# 6843577
+
 # Granular Synthesis Engine
 
 # To Run: python 'inputFile.txt' 'outputFile.txt' sampleRate grainLength(ms) grainDensity(grains/sec) pitch location(% of original audio available) duration(sec)
